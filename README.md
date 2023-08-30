@@ -1,0 +1,3 @@
+- Hi, I'm pakuss, a FiveM developer and co-owner of BermudaRP.
+- Currently learning LUA-Development
+- Pretty good ad python scripting
